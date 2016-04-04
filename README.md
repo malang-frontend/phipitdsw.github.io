@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>TUGAS CODING MUM I
-    </title>
-  </head>
-  <body>
 Pertanyaan-Jawaban:
 1.	Deskripsikan website yg ingin dibuat
 Jawab:
@@ -61,5 +54,3 @@ Jawab:
 •	Login
 •	Info
 •	Price range
-  </body>
-</html>
